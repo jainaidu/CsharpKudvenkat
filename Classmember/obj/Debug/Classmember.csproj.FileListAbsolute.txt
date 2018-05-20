@@ -1,0 +1,2 @@
+D:\Azure Training\CSharp-Practice\KudVenkat-C#\KudVenkatTutorials\Classes\Classmember\obj\Debug\Classmember.csprojAssemblyReference.cache
+D:\Azure Training\CSharp-Practice\KudVenkat-C#\KudVenkatTutorials\Classes\Classmember\obj\Debug\Classmember.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+D:\Azure Training\CSharp-Practice\KudVenkat-C#\KudVenkatTutorials\Classes\Polymorphism\bin\Debug\netstandard2.0\Polymorphism.deps.json
+D:\Azure Training\CSharp-Practice\KudVenkat-C#\KudVenkatTutorials\Classes\Polymorphism\bin\Debug\netstandard2.0\Polymorphism.dll
+D:\Azure Training\CSharp-Practice\KudVenkat-C#\KudVenkatTutorials\Classes\Polymorphism\bin\Debug\netstandard2.0\Polymorphism.pdb
+D:\Azure Training\CSharp-Practice\KudVenkat-C#\KudVenkatTutorials\Classes\Polymorphism\obj\Debug\netstandard2.0\Polymorphism.csproj.CoreCompileInputs.cache
+D:\Azure Training\CSharp-Practice\KudVenkat-C#\KudVenkatTutorials\Classes\Polymorphism\obj\Debug\netstandard2.0\Polymorphism.AssemblyInfoInputs.cache
+D:\Azure Training\CSharp-Practice\KudVenkat-C#\KudVenkatTutorials\Classes\Polymorphism\obj\Debug\netstandard2.0\Polymorphism.AssemblyInfo.cs
+D:\Azure Training\CSharp-Practice\KudVenkat-C#\KudVenkatTutorials\Classes\Polymorphism\obj\Debug\netstandard2.0\Polymorphism.dll
+D:\Azure Training\CSharp-Practice\KudVenkat-C#\KudVenkatTutorials\Classes\Polymorphism\obj\Debug\netstandard2.0\Polymorphism.pdb
+D:\Azure Training\CSharp-Practice\KudVenkat-C#\KudVenkatTutorials\Classes\Polymorphism\obj\Debug\netstandard2.0\Polymorphism.csprojAssemblyReference.cache

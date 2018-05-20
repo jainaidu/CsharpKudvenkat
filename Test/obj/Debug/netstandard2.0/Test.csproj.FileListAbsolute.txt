@@ -1,0 +1,9 @@
+D:\Azure Training\CSharp-Practice\KudVenkat-C#\KudVenkatTutorials\Classes\Test\bin\Debug\netstandard2.0\Test.deps.json
+D:\Azure Training\CSharp-Practice\KudVenkat-C#\KudVenkatTutorials\Classes\Test\bin\Debug\netstandard2.0\Test.dll
+D:\Azure Training\CSharp-Practice\KudVenkat-C#\KudVenkatTutorials\Classes\Test\bin\Debug\netstandard2.0\Test.pdb
+D:\Azure Training\CSharp-Practice\KudVenkat-C#\KudVenkatTutorials\Classes\Test\obj\Debug\netstandard2.0\Test.csprojAssemblyReference.cache
+D:\Azure Training\CSharp-Practice\KudVenkat-C#\KudVenkatTutorials\Classes\Test\obj\Debug\netstandard2.0\Test.csproj.CoreCompileInputs.cache
+D:\Azure Training\CSharp-Practice\KudVenkat-C#\KudVenkatTutorials\Classes\Test\obj\Debug\netstandard2.0\Test.AssemblyInfoInputs.cache
+D:\Azure Training\CSharp-Practice\KudVenkat-C#\KudVenkatTutorials\Classes\Test\obj\Debug\netstandard2.0\Test.AssemblyInfo.cs
+D:\Azure Training\CSharp-Practice\KudVenkat-C#\KudVenkatTutorials\Classes\Test\obj\Debug\netstandard2.0\Test.dll
+D:\Azure Training\CSharp-Practice\KudVenkat-C#\KudVenkatTutorials\Classes\Test\obj\Debug\netstandard2.0\Test.pdb

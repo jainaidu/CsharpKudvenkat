@@ -1,0 +1,9 @@
+D:\Azure Training\CSharp-Practice\KudVenkat-C#\KudVenkatTutorials\Classes\ifelse\bin\Debug\netstandard2.0\ifelse.deps.json
+D:\Azure Training\CSharp-Practice\KudVenkat-C#\KudVenkatTutorials\Classes\ifelse\bin\Debug\netstandard2.0\ifelse.dll
+D:\Azure Training\CSharp-Practice\KudVenkat-C#\KudVenkatTutorials\Classes\ifelse\bin\Debug\netstandard2.0\ifelse.pdb
+D:\Azure Training\CSharp-Practice\KudVenkat-C#\KudVenkatTutorials\Classes\ifelse\obj\Debug\netstandard2.0\ifelse.csprojAssemblyReference.cache
+D:\Azure Training\CSharp-Practice\KudVenkat-C#\KudVenkatTutorials\Classes\ifelse\obj\Debug\netstandard2.0\ifelse.csproj.CoreCompileInputs.cache
+D:\Azure Training\CSharp-Practice\KudVenkat-C#\KudVenkatTutorials\Classes\ifelse\obj\Debug\netstandard2.0\ifelse.AssemblyInfoInputs.cache
+D:\Azure Training\CSharp-Practice\KudVenkat-C#\KudVenkatTutorials\Classes\ifelse\obj\Debug\netstandard2.0\ifelse.AssemblyInfo.cs
+D:\Azure Training\CSharp-Practice\KudVenkat-C#\KudVenkatTutorials\Classes\ifelse\obj\Debug\netstandard2.0\ifelse.dll
+D:\Azure Training\CSharp-Practice\KudVenkat-C#\KudVenkatTutorials\Classes\ifelse\obj\Debug\netstandard2.0\ifelse.pdb
